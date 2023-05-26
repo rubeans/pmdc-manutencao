@@ -15,11 +15,14 @@
     gap: 2rem;
 }
 
-.logo {
+.logo-container {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 70%;
+}
+
+.logo {
+    width: 50%;
 }
 
 .titulo {
