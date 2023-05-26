@@ -1,0 +1,1 @@
+# Quando houver imprevisto
